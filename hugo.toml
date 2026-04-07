@@ -1,6 +1,6 @@
-baseURL = 'https://mirmousavi.com/'
+baseURL = 'https://ariosavi.com/'
 languageCode = "en-us"
-title = "Mostafa Mirmousavi"
+title = "Ario Savi"
 
 # Change to one of your content languages defined at the end.
 DefaultContentLanguage = "en"
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [module]
     [[module.imports]]
-        path = "github.com/mirmousaviii/mostafa-hugo-theme"
+        path = "github.com/ariosavi/mostafa-hugo-theme"
 #          path = "mostafa-hugo-theme"
 
 [params]
@@ -25,9 +25,9 @@ enableRobotsTXT = true
     js_modules = []
 
     # Description and meta data for the search engines
-    author = "Mostafa Mirmousavi"
+    author = "Ario Savi"
     description = "Software Engineer"
-    keywords = "mostafa,mirmousavi,javascript,typescript,react,nodejs,monkeyc,مانکی‌سی,مصطفی,میرموسوی"
+    keywords = "Ario,mirmousavi,javascript,typescript,react,nodejs,monkeyc,مانکی‌سی,مصطفی,میرموسوی"
     subtitle = "A software engineer with a passion for diverse hobbies like flying, cooking, and gardening 😉"
 
     showSubtitle = false
@@ -118,11 +118,11 @@ enableRobotsTXT = true
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-        { name = "GitHub", link = "https://github.com/mirmousaviii", icon = "fab fa-github"},
+        { name = "GitHub", link = "https://github.com/ariosavi", icon = "fab fa-github"},
         { name = "Linkedin", link = "https://linkedin.com/in/mirmousavi/en", icon = "fab fa-linkedin" },
-        { name = "Twitter / X", link = "https://twitter.com/mirmousaviii", icon = "fab fa-twitter" },
+        { name = "Twitter / X", link = "https://twitter.com/ariosavi", icon = "fab fa-twitter" },
         #{ name = "RSS", link = "/index.xml", icon = "fas fa-rss" },
-        { name = "Email", link = "mailto:mostafa@mirmousavi.com", icon = "fas fa-envelope" },
+        { name = "Email", link = "mailto:ario@ariosavi.com", icon = "fas fa-envelope" },
     ]
 
     # show other links in the footer
@@ -141,7 +141,7 @@ enableRobotsTXT = true
     # credits line configuration
     #copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     #copyrightYearOverride = "2024"
-    #copyrightBy = "by Mostafa Mirmousavi" # default is "by {site title}"
+    #copyrightBy = "by Ario Savi" # default is "by {site title}"
     #copyrightUrl = "https://mirmousavi.com" # default is .Site.BaseURL
 
 
@@ -156,7 +156,7 @@ enableRobotsTXT = true
         languageCode = 'en-US'
         languageDirection = 'ltr'
         languageName = 'English'
-        title = "Mostafa Mirmousavi"
+        title = "Ario Savi"
         [[Languages.en.menus.main]]
             name = "allPosts"
             url = "/"
@@ -176,7 +176,7 @@ enableRobotsTXT = true
         languageCode = 'de-DE'
         languageDirection = 'ltr'
         languageName = 'German'
-        title = "Mostafa Mirmousavi"
+        title = "Ario Savi"
         [[Languages.de.menus.main]]
             name = "allPosts"
             url = "/de/"
@@ -196,7 +196,7 @@ enableRobotsTXT = true
         languageCode = 'nl-NL'
         languageDirection = 'ltr'
         languageName = 'Dutch'
-        title = "Mostafa Mirmousavi"
+        title = "Ario Savi"
         [[Languages.nl.menus.main]]
             name = "allPosts"
             url = "/nl/"
